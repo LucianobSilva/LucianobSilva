@@ -1,10 +1,10 @@
 ### Hi, I'm Luciano! 👋
 
-[PT]
+[PT] - 
 Sou formado em Administração de Empresas com ênfase em Finanças e atualmente estou cursando uma pós-graduação em Machine Learning e Inteligência Artificial na [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx). Além disso, possuo mais de 10 anos de experiência em análise de dados e geração de soluções eficientes para empresas dos mais diversos setores. Durante esse período, desenvolvi habilidades em áreas como mineração de dados, modelagem estatística e visualização de dados. Essa experiência me permitiu compreender a importância de soluções baseadas em dados para tomada de decisões estratégicas e para impulsionar o crescimento das organizações. Estou sempre em busca de aprender e também contribuir em projetos desafiadores. 
 
-[EN]
-I have a degree in Business Administration with emphasis on Finance and I am currently pursuing a post-graduation in Machine Learning and Artificial Intelligence at PUC Minas. In addition, I have over 10 years of experience in data analysis and generating efficient solutions for companies in various sectors. During this period, I developed skills in areas such as data mining, statistical modeling, and data visualization. This experience has allowed me to understand the importance of data-based solutions for strategic decision-making and to drive organizational growth. I am always looking to learn and contribute to challenging projects."
+[EN] - 
+I have a degree in Business Administration with emphasis on Finance and I am currently pursuing a post-graduation in Machine Learning and Artificial Intelligence at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx). In addition, I have over 10 years of experience in data analysis and generating efficient solutions for companies in various sectors. During this period, I developed skills in areas such as data mining, statistical modeling, and data visualization. This experience has allowed me to understand the importance of data-based solutions for strategic decision-making and to drive organizational growth. I am always looking to learn and contribute to challenging projects."
 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
