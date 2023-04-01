@@ -2,7 +2,7 @@
 
 
 ### Ajutando
-Sou formado em Administração de Empresas com ênfase em Finanças e atualmente estou cursando uma pós-graduação em Machine Learning e Inteligência Artificial. Além disso, possuo mais de 10 anos de experiência em análise de dados e geração de soluções eficientes para empresas dos mais diversos setores. Durante esse período, desenvolvi habilidades em áreas como mineração de dados, modelagem estatística e visualização de dados. Essa experiência me permitiu compreender a importância de soluções baseadas em dados para tomada de decisões estratégicas e para impulsionar o crescimento das organizações. Estou em busca de oportunidades para aplicar meus 
+Sou formado em Administração de Empresas com ênfase em Finanças e atualmente estou cursando uma pós-graduação em Machine Learning e Inteligência Artificial. Além disso, possuo mais de 10 anos de experiência em análise de dados e geração de soluções eficientes para empresas dos mais diversos setores. Durante esse período, desenvolvi habilidades em áreas como mineração de dados, modelagem estatística e visualização de dados. Essa experiência me permitiu compreender a importância de soluções baseadas em dados para tomada de decisões estratégicas e para impulsionar o crescimento das organizações. Estou sempre em busca de aprender e também contribuir em projetos desafiadores.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
