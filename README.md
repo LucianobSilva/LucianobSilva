@@ -2,8 +2,7 @@
 
 
 ### Ajutando
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [48 campus in 27 countries](https://www.42network.org/42-schools/).
+Sou formado em Administração de Empresas com ênfase em Finanças e atualmente estou cursando uma pós-graduação em Machine Learning e Inteligência Artificial. Além disso, possuo mais de 10 anos de experiência em análise de dados e geração de soluções eficientes para empresas dos mais diversos setores. Durante esse período, desenvolvi habilidades em áreas como mineração de dados, modelagem estatística e visualização de dados. Essa experiência me permitiu compreender a importância de soluções baseadas em dados para tomada de decisões estratégicas e para impulsionar o crescimento das organizações. Estou em busca de oportunidades para aplicar meus 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
