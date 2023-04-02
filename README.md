@@ -19,10 +19,12 @@ I have a degree in Business Administration with emphasis on Finance and I am cur
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>                              
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>   
+<img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" />
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/databricks.svg" />
 <img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />  
+<img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" />  
 </p>
 
 ### Socials
