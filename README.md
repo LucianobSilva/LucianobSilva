@@ -11,7 +11,7 @@ I have a degree in Business Administration with emphasis on Finance and I am cur
 * ✉️  Você pode entrar em contato comigo em / You can contact me at [luciano.barbosa19@hotmail.com](mailto:luciano.barbosa19@hotmail.com)
 * 🚀  Atualmente estou trabalhando em / I'm currently working on [Ache Laboratórios](https://www.ache.com.br)
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas / I'm open to collaborating on projects that have a high impact in peoples lives.
-* ⚡  Imo ler livros e viajar com a minha familia / I love reading books and traveling with my family.
+* ⚡  Amo ler livros e viajar com a minha familia / I love reading books and traveling with my family.
 
 
 ### Skills
