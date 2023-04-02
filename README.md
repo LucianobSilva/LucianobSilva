@@ -12,8 +12,8 @@ I have a degree in Business Administration with emphasis on Finance and I am cur
 * 🚀  Atualmente estou trabalhando em / I'm currently working on [Ache Laboratórios](https://www.ache.com.br)
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas / I'm open to collaborating on projects that have a high impact in peoples lives.
 * ⚡  Imo ler livros e viajar com a minha familia / I love reading books and traveling with my family.
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
+
 ### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
