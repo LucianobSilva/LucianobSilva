@@ -23,9 +23,7 @@ I have a degree in Business Administration with emphasis on Finance and I am cur
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="36" height="36" alt="Postgre" /></a>   
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/databricks.svg" />  
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="36" height="36" alt="VSCode" /></a>    
-  
-<img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />     
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="36" height="36" alt="VSCode" /></a>     
 </p>
 
 ### Socials
