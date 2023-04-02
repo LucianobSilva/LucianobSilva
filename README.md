@@ -9,10 +9,9 @@ I have a degree in Business Administration with emphasis on Finance and I am cur
 
 * 🌍  Moro em São Paulo, Brasil / I'm based in São Paulo, Brazil 
 * ✉️  Você pode entrar em contato comigo em / You can contact me at [luciano.barbosa19@hotmail.com](mailto:luciano.barbosa19@hotmail.com)
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
-* 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 🚀  Atualmente estou trabalhando em / I'm currently working on [Ache Laboratórios](https://www.ache.com.br)
+* 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas / I'm open to collaborating on projects that have a high impact in peoples lives.
+* ⚡  I love reading books and traveling with my family / I love reading books and traveling with my family.
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 ### Skills
