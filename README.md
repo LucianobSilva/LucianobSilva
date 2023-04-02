@@ -7,8 +7,8 @@ Sou formado em Administração de Empresas com ênfase em Finanças e atualmente
 I have a degree in Business Administration with emphasis on Finance and I am currently pursuing a post-graduation in Machine Learning and Artificial Intelligence at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx). In addition, I have over 10 years of experience in data analysis and generating efficient solutions for companies in various sectors. During this period, I developed skills in areas such as data mining, statistical modeling, and data visualization. This experience has allowed me to understand the importance of data-based solutions for strategic decision-making and to drive organizational growth. I am always looking to learn and contribute to challenging projects."
 
 
-* 🌍  I'm based in São Paulo, Brazil / Moro em São Paulo, Brasil
-* ✉️  You can contact me at [luciano.barbosa19@hotmail.com](mailto:luciano.barbosa19@hotmail.com)
+* 🌍  Moro em São Paulo, Brasil / I'm based in São Paulo, Brazil 
+* ✉️  Você pode entrar em contato comigo em / You can contact me at [luciano.barbosa19@hotmail.com](mailto:luciano.barbosa19@hotmail.com)
 * 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
 * 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
