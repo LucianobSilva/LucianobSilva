@@ -22,7 +22,7 @@ I have a degree in Business Administration with emphasis on Finance and I am cur
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>                              
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/databricks.svg" />
-[![My Skills](https://skillicons.dev/icons?i=VSCode-Dark,flutter&perline=3)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=VSCode-Dark,flutter&perline=3)](https://skillicons.dev)
 </p>
 
 ### Socials
